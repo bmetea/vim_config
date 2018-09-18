@@ -5,8 +5,6 @@ execute pathogen#infect()
 filetype on
 syntax on
 colorscheme pychimp
-" set lines=35 columns=150
-" set colorcolumn=90
 set backspace=indent,eol,start
 set number
 set guifont=Menlo\ Regular:h18
@@ -18,9 +16,9 @@ set nowrap
 set tabstop=4
 set smartindent
 set autoindent
-" nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
 set hlsearch
 set showmatch
+set laststatus=2
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
