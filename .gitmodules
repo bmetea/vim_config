@@ -1,0 +1,3 @@
+[submodule "/Users/bmetea/.vim/bundle/lightline.vim"]
+	path = /Users/bmetea/.vim/bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim

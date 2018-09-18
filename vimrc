@@ -4,7 +4,7 @@ endif
 execute pathogen#infect()
 filetype on
 syntax on
-colorscheme dracula
+colorscheme pychimp
 " set lines=35 columns=150
 " set colorcolumn=90
 set backspace=indent,eol,start
@@ -19,4 +19,9 @@ set tabstop=4
 set smartindent
 set autoindent
 " nnoremap <silent> <Esc> :nohlsearch<Bar>:echo<CR>
+set hlsearch
 set showmatch
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
