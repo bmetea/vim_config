@@ -1,3 +1,9 @@
 [submodule "/Users/bmetea/.vim/bundle/lightline.vim"]
 	path = /Users/bmetea/.vim/bundle/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule "/Users/bmetea/.vim/bundle/python-mode.vim"]
+	path = /Users/bmetea/.vim/bundle/python-mode.vim
+	url = https://github.com/python-mode/python-mode.git
+[submodule "/Users/bmetea/.vim/bundle/vim-flake8.vim"]
+	path = /Users/bmetea/.vim/bundle/vim-flake8.vim
+	url = https://github.com/nvie/vim-flake8.git

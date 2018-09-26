@@ -1,9 +1,11 @@
-if has('python3')
-  silent! python3 1
-endif
+"if has('python3')
+"  silent! python3 1
+"endif
+filetype off
 execute pathogen#infect()
-filetype on
+filetype plugin indent  on
 syntax on
+"let g:pymode_python = 'python3'
 colorscheme pychimp
 set backspace=indent,eol,start
 set number
@@ -19,6 +21,7 @@ set autoindent
 set hlsearch
 set showmatch
 set laststatus=2
+let g:netrw_banner = 0
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
