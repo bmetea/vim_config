@@ -1,3 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/bmetea/TTCode/db-scripts/mongo'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/bmetea/TTCode/articles-serverless/.circleci'
+let g:netrw_dirhist_2='/Users/bmetea/TTCode/articles-serverless'
+let g:netrw_dirhist_3='/Users/bmetea/TTCode/articles-serverless/lambdas'
+let g:netrw_dirhist_4='/Users/bmetea/TTCode/articles-serverless'
+let g:netrw_dirhist_5='/Users/bmetea/TTCode/articles-serverless/lambdas'
+let g:netrw_dirhist_6='/Users/bmetea/TTCode/trythis/venv/lib/python3.6/site-packages'
+let g:netrw_dirhist_7='/Users/bmetea/TTCode/trythis/venv/lib/python3.6/site-packages/tt_schemas'
+let g:netrw_dirhist_8='/Users/bmetea/TTCode/rss-parser'
+let g:netrw_dirhist_9='/Users/bmetea/TTCode/rss-parser/.circleci'

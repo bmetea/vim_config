@@ -7,3 +7,6 @@
 [submodule "/Users/bmetea/.vim/bundle/vim-flake8.vim"]
 	path = /Users/bmetea/.vim/bundle/vim-flake8.vim
 	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
